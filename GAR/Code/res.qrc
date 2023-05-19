@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/input">
+        <file>data/input/bufEXML.txt</file>
+    </qresource>
+</RCC>

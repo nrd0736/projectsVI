@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/head.html</file>
+        <file>res/icon.png</file>
+        <file>res/inf.png</file>
+        <file>res/pushfont1.ttf</file>
+        <file>res/fon.jpg</file>
+        <file>res/vi.png</file>
+        <file>res/menyFon.png</file>
+    </qresource>
+    <qresource prefix="/tabicon">
+        <file>res/tabicon/BJD.png</file>
+        <file>res/tabicon/BJD2.png</file>
+        <file>res/tabicon/EDiRS.png</file>
+        <file>res/tabicon/EDiRS2.png</file>
+        <file>res/tabicon/FIZ.png</file>
+        <file>res/tabicon/FIZ2.png</file>
+        <file>res/tabicon/KvIop.png</file>
+        <file>res/tabicon/KvIop2.png</file>
+        <file>res/tabicon/RTS.png</file>
+        <file>res/tabicon/RTS2.png</file>
+    </qresource>
+</RCC>

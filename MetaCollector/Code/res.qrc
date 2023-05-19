@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>resors/ofont.ru_CutOut.ttf</file>
+    </qresource>
+    <qresource prefix="/load">
+        <file>resors/30.gif</file>
+    </qresource>
+    <qresource prefix="/fimg">
+        <file>resors/fon2.jpg</file>
+        <file>resors/fon.jpg</file>
+        <file>resors/fon3.jpg</file>
+        <file>resors/m1.jpg</file>
+    </qresource>
+</RCC>
