@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Res/Fonts">
+        <file>Res/Fonts/DatDot.ttf</file>
+        <file>Res/Fonts/Nikoleta.ttf</file>
+        <file>Res/Fonts/LCD5x8HRU.ttf</file>
+    </qresource>
+    <qresource prefix="/Res/Img">
+        <file>Res/Img/aidIcon.jpg</file>
+    </qresource>
+</RCC>
